@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeVtestjune28
+  gitServerName: june28
+  gitUrl: https://github.com/vijetadixit/EdgeVtestjune28
+  gitUsername: vijetadixit
+  gitToken: edge.scaffolding.EdgeVtestjune28.june28.gitToken
+  gitBranch: master
